@@ -1,0 +1,2 @@
+model_checkpoint_path: "CT-MRI-Modal"
+all_model_checkpoint_paths: "CT-MRI-Modal"
